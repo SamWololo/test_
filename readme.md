@@ -1,5 +1,3 @@
 Hello
 
-Hi
-
-new branch
+this is a conflict on the remote repository
